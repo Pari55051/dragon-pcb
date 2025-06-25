@@ -1,4 +1,4 @@
-# 🐉 Dragon Pulse PCB
+# 🐉 Dragon PCB
 
 A creative, dragon-shaped PCB that comes alive in the dark — featuring glowing eyes and a beating heart. This project combines aesthetics with simple analog electronics to deliver a unique desktop artifact.
 
